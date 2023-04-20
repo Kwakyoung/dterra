@@ -1,0 +1,6 @@
+@charset "utf-8";   /* at-rule */
+@import "reset.css";
+
+body{
+    font: normal 14px/1.5 "Maven Pro", "Noto Sans KR", sans-serif;
+}
